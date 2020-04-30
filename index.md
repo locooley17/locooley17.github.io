@@ -16,7 +16,7 @@
 <img src="images/Reyes.png?raw=true"/>
 
 ---
-[MIDI Preservation for the Briscoe](/pdf/Three_Description.pdf)
+[MIDI Preservation for the Briscoe](/Three_Description.pdf)
 <img src="images/Disk.jpg?raw=true"/>
 
 ---

@@ -5,6 +5,7 @@
 ### Projects
 
 [Chant Hypertexts](/pdf/One_Description.pdf)
+[Link to site](http://www.chanthypertexts.org)
 <img src="images/Chant.png?raw=true"/>
 
 ---

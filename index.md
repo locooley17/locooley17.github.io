@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Chant Hypertexts](/sample_page)
 <img src="images/Chant.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Processing at the Benson](/pdf/sample_presentation.pdf)
+<img src="images/Reyes.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

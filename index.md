@@ -8,7 +8,7 @@
 <img src="images/Chant.png?raw=true"/>
 
 ---
-[Processing at the Benson](/pdf/sample_presentation.pdf)
+[Processing at the Benson](/pdf/Two_Description.pdf)
 <img src="images/Reyes.png?raw=true"/>
 
 ---

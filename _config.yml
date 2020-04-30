@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>I work so that people and information can find each other. Across my experiences in 
   libraries, archives, and educational institutions, it’s been my privilege to work on behalf of 
   information per se and on behalf of people seeking information.<br><br>
-  <a href="https://www.linkedin.com/in/example/">View My Resume</a> <br>
+  [View My Resume](/pdf/Resume.pdf) <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

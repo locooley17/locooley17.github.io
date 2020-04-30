@@ -12,8 +12,8 @@
 <img src="images/Reyes.png?raw=true"/>
 
 ---
-[Digital Preservation for the Briscoe](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MIDI Preservation for the Briscoe](http://example.com/)
+<img src="images/Disk.jpg?raw=true"/>
 
 ---
 

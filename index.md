@@ -9,7 +9,7 @@
 
 ---
 [Processing at the Benson](/pdf/sample_presentation.pdf)
-<img src="images/Reyes.jpg?raw=true"/>
+<img src="images/Reyes.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Chant Hypertexts](/sample_page)
+[Chant Hypertexts](/pdf/One_Description.pdf)
 <img src="images/Chant.png?raw=true"/>
 
 ---

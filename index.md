@@ -12,7 +12,7 @@
 <img src="images/Reyes.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Digital Preservation for the Briscoe](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Chant Hypertexts](/sample_page)
-<img src="images/Chant.jpg?raw=true"/>
+<img src="images/Chant.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
